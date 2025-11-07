@@ -1,0 +1,13 @@
+body {
+  background-color; #880088;
+  font-family;Arial, sans-sesrif;
+  color: #191970;
+}
+.kartu-foto profil {
+  width:300px;
+  margin:50px auto; /*jarak atas/bawah,auto menengah kiri/kanan*/
+  padding:29px;
+  background-color:c6yan;
+  broder-radius:15px; /*sudut melengkung*/
+  box-shadow:0 4px 8px rgba(0,0,0,1);/*efek bayangan*/
+  
